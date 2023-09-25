@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Andy Zircher's Personal Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: SecondPage.qmd
+        text: Second Page
+      - href: ExplainSomething.qmd
+        text: Explaning Something Here
+
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,10 @@
+---
+title: "Explaining Something"
+subject: "This page explains something."
+date: 2023-09-12
+author: "Andy Zircher"
+format: html
+editor: visual
+---
+
+This is the main part of the page where your content goes.
